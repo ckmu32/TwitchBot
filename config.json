@@ -1,0 +1,8 @@
+{
+    "channelName":"YOUR_CHANNEL_NAME",
+    "broadcasterName":"YOUR_MAIN_USER(BROADCASTER)",
+    "reminderTime":"30",
+    "loginUser":"LOGIN_USER_FOR_BOT_",
+    "loginToken":"oauth:TOKEN",
+    "channelToLogin":"CHANNEL_TO_USE"
+}

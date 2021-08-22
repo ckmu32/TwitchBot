@@ -1,0 +1,4 @@
+//These words are not case sensitive.
+lazy
+dumb
+idiot
