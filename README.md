@@ -49,8 +49,8 @@ https://twitchapps.com/tmi/
 
 # Notes
 
- - If you use a 0 for the time the automatic job will no be initialized.
- - The terminal prints basic logs.
+ - If you use a 0 for the time, the automatic job will no be initialized.
+ - Basic logging is implemented.
 
 # Future
 Since this is more of a personal bot, updates will not be constant, but be free to tell:
